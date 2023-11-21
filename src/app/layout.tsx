@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
   title: { template: "%s | devstore_ ", default: "devstore_" },
+  metadataBase: new URL("http://localhost:3000"),
 }
 
 export default function RootLayout({
