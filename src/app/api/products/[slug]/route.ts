@@ -11,8 +11,6 @@ export async function GET(
     }
   }
 ) {
-  await new Promise((resolve) => setTimeout(resolve, 1000)) // Simulate network latency
-
   const slug = z.string().parse(params.slug)
 
   const product = data.products.find((product) => product.slug === slug)
