@@ -53,8 +53,6 @@ This project is available at: https://dev-store-six.vercel.app
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-
 * npm
 
 ```sh
