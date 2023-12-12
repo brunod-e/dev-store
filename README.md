@@ -90,7 +90,6 @@ Contributions are what make the open source community such an amazing place to b
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/brunod-e/dev-store/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/brunod-e/dev-store/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -102,7 +101,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Bruno D** - *Fullstack Developer* - [Bruno D](https://github.com/brunod-e) - *Built full application*
+* **Bruno D.** - *Fullstack Developer* - [Bruno D](https://github.com/brunod-e) - *Built full application*
 
 ## Acknowledgements
 
