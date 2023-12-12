@@ -40,12 +40,11 @@ DevStore is an innovative project that leverages the power of Next.js to create 
 
 ## Built With
 
-Next: Next.js framework for building web applications.
-Tailwind: A utility-first CSS framework for rapidly building custom designs.
-Zod: TypeScript-first schema declaration and validation library.
-DevDependencies:
-Cypress: End-to-end testing framework.
-Typescript: TypeScript language for static typing.Here are a few examples.
+Next: Next.js framework for building web applications.<br/>
+Tailwind: A utility-first CSS framework for rapidly building custom designs.<br/>
+Zod: TypeScript-first schema declaration and validation library.<br/>
+Cypress: End-to-end testing framework.<br/>
+Typescript: TypeScript language for static typing.Here are a few examples.<br/>
 
 ## Getting Started
 
