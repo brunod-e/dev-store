@@ -18,7 +18,8 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/brunod-e/dev-store?color=dark-green) ![Issues](https://img.shields.io/github/issues/brunod-e/dev-store) 
+![Contributors](https://img.shields.io/github/contributors/brunod-e/dev-store?color=dark-green) ![Issues](https://img.shields.io/github/issues/brunod-e/dev-store) ![License](https://img.shields.io/github/license/brunod-e/dev-store) 
+
 
 ## Table Of Contents
 
